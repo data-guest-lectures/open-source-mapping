@@ -194,14 +194,14 @@ class:center,middle
 
 ---
 
-#[QGIS](http://www.qgis.org/)
+# [QGIS](http://www.qgis.org/)
 
 ![img-center-100](images/qgis.png)
 Source: [NYC Open Data Portal 311 Service Requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9), DOT Responsible Agency 1 January - 30 June 2015
 
 ---
 
-#[Carto](https://carto.com/)
+# [Carto](https://carto.com/)
 <iframe width="100%" height="480" frameborder="0" src="https://richard-datapolitan.carto.com/viz/c0d4f39e-962e-11e4-9b3b-0e9d821ea90d/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <!-- ![img-center-100](images/cdb1.png) -->
