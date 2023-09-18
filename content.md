@@ -12,8 +12,8 @@ class: center
 - - -
 # Open Source Mapping
 ## Richard Dunks
-## Follow along at: http://bit.ly/lede-osmapping
-### The code for this presentation is here: <br>http://bit.ly/lede-osmapping-code
+## Follow along at: https://data-guest-lectures.github.io/open-source-mapping/
+### The code for this presentation is here: <br>https://github.com/data-guest-lectures/open-source-mapping
 
 ---
 
